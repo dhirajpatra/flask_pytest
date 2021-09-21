@@ -1,4 +1,4 @@
-# simple application to use python and flask
+# simple application to use pytest with flask
 
 This application created from a tutorial. I have shared here to use as a template for flask and pytest.
 
